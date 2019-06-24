@@ -1,0 +1,11 @@
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\bin\Debug\netcoreapp2.2\TimerBot.deps.json
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\bin\Debug\netcoreapp2.2\TimerBot.runtimeconfig.json
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\bin\Debug\netcoreapp2.2\TimerBot.runtimeconfig.dev.json
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\bin\Debug\netcoreapp2.2\TimerBot.dll
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\bin\Debug\netcoreapp2.2\TimerBot.pdb
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp2.2\TimerBot.csprojAssemblyReference.cache
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp2.2\TimerBot.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp2.2\TimerBot.AssemblyInfoInputs.cache
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp2.2\TimerBot.AssemblyInfo.cs
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp2.2\TimerBot.dll
+C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp2.2\TimerBot.pdb
