@@ -33,7 +33,7 @@ namespace TimerBot
 
     internal static class Constants
     {
-        internal const string ApiToken = "{YOUR_BOT_API_TOKEN_WITHOUT_CURLY_BRACES}";
+        internal const string ApiToken = "51a6ef998e4a9f0ed5defdbe2e02f4d807214006";
         internal const string TimeSpanFormat = @"hh\:mm\:ss";
         internal const string StartCommand = @"/start";
         internal const string StartAnswer = @"Hello! You can set a timer to wait and get a notification as the timer runs out.
