@@ -25,7 +25,7 @@ namespace TimerBot
 
             client.OnMessage += TimerHandler;
 
-            Console.ReadKey();
+            Console.Read();
 
             client.StopReceiving();
         }
