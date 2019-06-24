@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 using System.Threading;
 using System.Threading.Tasks;
@@ -17,7 +17,7 @@ namespace TimerBot
     /// </summary>
     public static class Startup
     {
-        public static void Main()
+        public static async Task Main()
         {
             var client = new TelegramBotClient(ApiToken);
 
@@ -25,7 +25,10 @@ namespace TimerBot
 
             client.OnMessage += TimerHandler;
 
-            Console.Read();
+            while (true)
+            {
+                await Task.Delay(100000);   
+            }
 
             client.StopReceiving();
         }
