@@ -1,5 +1,0 @@
-C:\Users\VAIO\source\repos\TimerBot\TimerBot\bin\Debug\netcoreapp3.0\TimerBot.exe
-C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp3.0\TimerBot.csprojAssemblyReference.cache
-C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp3.0\TimerBot.csproj.CoreCompileInputs.cache
-C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp3.0\TimerBot.AssemblyInfoInputs.cache
-C:\Users\VAIO\source\repos\TimerBot\TimerBot\obj\Debug\netcoreapp3.0\TimerBot.AssemblyInfo.cs
